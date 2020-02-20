@@ -1,0 +1,10 @@
+C:\Users\Brady\source\repos\200223057_a2\200223057_a2\bin\Debug\200223057_a2.exe.config
+C:\Users\Brady\source\repos\200223057_a2\200223057_a2\bin\Debug\200223057_a2.exe
+C:\Users\Brady\source\repos\200223057_a2\200223057_a2\bin\Debug\200223057_a2.pdb
+C:\Users\Brady\source\repos\200223057_a2\200223057_a2\obj\Debug\200223057_a2.csprojAssemblyReference.cache
+C:\Users\Brady\source\repos\200223057_a2\200223057_a2\obj\Debug\_200223057_a2.frm_Calculator.resources
+C:\Users\Brady\source\repos\200223057_a2\200223057_a2\obj\Debug\_200223057_a2.Properties.Resources.resources
+C:\Users\Brady\source\repos\200223057_a2\200223057_a2\obj\Debug\200223057_a2.csproj.GenerateResource.cache
+C:\Users\Brady\source\repos\200223057_a2\200223057_a2\obj\Debug\200223057_a2.csproj.CoreCompileInputs.cache
+C:\Users\Brady\source\repos\200223057_a2\200223057_a2\obj\Debug\200223057_a2.exe
+C:\Users\Brady\source\repos\200223057_a2\200223057_a2\obj\Debug\200223057_a2.pdb
